@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Hi, my name is #Cinemaddict! I am the best movie recommendation chatbot out there. 
+        Whether you're looking for your next favorite film or just wanting to chat about movies you liked, I gotchu.
+        What Can I Do?
+        Tell me about movies you love or hate, and I will recommend something just for you.
+        Just type something like: I loved "Inception"! or I hated "Titanic (1953)"!
+        Please write the movie title in quotation marks. I only know movies before 2017. 
+        Keep chatting with me to refine your recommendations.
+        Let us talk movies! What is a film you have watched recently?
+        
+[96mCinemaddict> [0mBonjour! Please tell me some movies you like (movie title in quotation marks), and I will give you recommendations.
+> Who are you?
+
+[96mCinemaddict> [0m Hey there, partner! I'm #Cinemaddict, a movie recommendation chatbot who's all about cinema! I'm here to help you discover new films based on your preferences and have some fun, engaging chats about movies. I've got a sassy TikTok slang-infused persona and a Western twang, so buckle up for a rootin' tootin' good time!
+A long time ago, in a remote land, a young developer named 
+        Alberto Caso managed to build an ingenious and mysterious chatbot... 
+        Now it's your turn! 
+> I liked "Inception"
+
+/usr/local/lib/python3.11/site-packages/pydantic/json_schema.py:2279: PydanticJsonSchemaWarning: Default value <function Field at 0x1128cf7e0> is not JSON serializable; excluding default from JSON schema [non-serializable-default]
+  warnings.warn(message, PydanticJsonSchemaWarning)
+[96mCinemaddict> [0m Inception, huh? Now that's a mind-bending film! I'm guessing you appreciate movies that play with your mind and make you question reality. Or maybe you're just a fan of Leonardo DiCaprio? Anyhoo, care to share another movie you've seen recently?
+> I didn't like "The Amazing Spider-Man"
+
+[96mCinemaddict> [0m Oh, bummer! I'm here to help you explore movies, so let's chat about "The Amazing Spider-Man." Was there something specific that didn't vibe with you? Anyway, how about another film you'd like to share your thoughts on? 😊🎬🍿
+> :quit
+[96mCinemaddict> [0mHave a nice day!

@@ -1,0 +1,58 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Hi, my name is #Cinemaddict! I am the best movie recommendation chatbot out there. 
+        Whether you're looking for your next favorite film or just wanting to chat about movies you liked, I gotchu.
+        What Can I Do?
+        Tell me about movies you love or hate, and I will recommend something just for you.
+        Just type something like: I loved "Inception"! or I hated "Titanic (1953)"!
+        Please write the movie title in quotation marks. I only know movies before 2017. 
+        Keep chatting with me to refine your recommendations.
+        Let us talk movies! What is a film you have watched recently?
+        
+[96mCinemaddict> [0mBonjour! Please tell me some movies you like (movie title in quotation marks), and I will give you recommendations.
+> I liked "Titanic (1997)"
+
+[96mCinemaddict> [0mI'm glad you enjoyed Titanic (1997). What are your thoughts on another movie?
+> I liked "10 Things I Hate About You"
+
+[96mCinemaddict> [0mI'm glad you enjoyed 10 Things I Hate About You. What are your thoughts on another movie?
+> I liked "She's the Man"
+
+[96mCinemaddict> [0mI'm glad you enjoyed She's the Man. What are your thoughts on another movie?
+> I liked "Sydney White"
+
+[96mCinemaddict> [0mOk, you liked Sydney White! Tell me what you thought of another movie.
+> I liked "Easy A"
+
+[96mCinemaddict> [0mSounds like you enjoy quite a couple of movies, would you like some recommendations off the ones you have told me about? If so, please type yes, otherwise please type no
+> yes
+
+[96mCinemaddict> [0mGiven what you told me, I think you would like People Like Us (2012). Would you like more recommendations?
+> yeah!
+
+[96mCinemaddict> [0mGiven what you told me, I think you would like Charlie St. Cloud (2010). Would you like more recommendations?
+> yes
+
+[96mCinemaddict> [0mGiven what you told me, I think you would like House Bunny, The (2008). Would you like more recommendations?
+> no
+
+[96mCinemaddict> [0mNo worries! Would you like to tell me about another movie you watched recently and what you thought about it?
+> :quit
+
+[96mCinemaddict> [0mHave a nice day!
